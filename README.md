@@ -1,5 +1,7 @@
 # So Many Ways to Multiply 3x3 Matrices: A Large Dataset of Rank-23 Schemes
 
+[![arXiv:2611.31155](https://img.shields.io/badge/arXiv-2611.31155-b31b1b.svg)](https://arxiv.org/abs/2611.31155)
+
 A dataset of rank-23 schemes for 3x3 matrix multiplication, accompanying the paper *So Many Ways to Multiply 3×3 Matrices: A Large Dataset of Rank-23 
 Schemes*.
 
@@ -121,8 +123,8 @@ If you use the dataset, please cite the paper:
 @article{perminov2026rank23dataset,
   author = {Perminov, Andrew},
   title  = {So Many Ways to Multiply $3\times3$ Matrices: A Large Dataset of Rank-23 Schemes},
-  journal={arXiv preprint arXiv:TODO},
-  url={https://arxiv.org/abs/TODO},
+  journal={arXiv preprint arXiv:2611.31155},
+  url={https://arxiv.org/abs/2611.31155},
   year={2026}
 }
 ```
