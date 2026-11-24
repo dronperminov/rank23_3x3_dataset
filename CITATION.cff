@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+title: "So Many Ways to Multiply 3x3 Matrices: A Large Dataset of Rank-23 Schemes"
+authors:
+  - family-names: Perminov
+    given-names: Andrew I.
+    orcid: "https://orcid.org/0000-0001-8047-0114"
+    affiliation: "Research Center for TAI Institute for System Programming"
+repository-code: "https://github.com/dronperminov/rank23_3x3_dataset"
+url: "https://github.com/dronperminov/rank23_3x3_dataset"
+abstract: >-
+  A dataset of tens of thousands of rank-23 schemes for 3x3 matrix
+  multiplication in which every scheme has its own rank pattern, so all
+  schemes are pairwise inequivalent. The schemes were obtained by a numerical
+  method combining gradient descent with alternating least squares and by flip
+  graph search, and have ternary, integer or rational coefficients. The dataset
+  is provided in JSON, plain text and Maple formats together with a script
+  that verifies the correctness of every scheme.
+keywords:
+  - 3x3 matrix multiplication
+  - fast matrix multiplication
+  - tensor decomposition
+  - bilinear complexity
+  - flip graphs
+  - dataset
+license: MIT
+version: "1.0"
+date-released: "2026-11-23"
+preferred-citation:
+  type: article
+  title: "So Many Ways to Multiply 3x3 Matrices: A Large Dataset of Rank-23 Schemes"
+  authors:
+    - family-names: Perminov
+      given-names: Andrew
+  journal: "arXiv preprint arXiv:2611.31155"
+  url: "https://arxiv.org/abs/2611.31155"
+  year: 2026
